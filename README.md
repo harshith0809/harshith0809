@@ -3,7 +3,7 @@
 ## ID: 101736355
 ## tirumalarajus2@udayton.edu
 
-## Istructor: Kyle Tarplee
+## Instructor: Kyle Tarplee
 
 ### Hi, this is harshith. I am a graduate student who is currently in final semester. I will be graduating in december. 
 ### Currently i am working on enhancing my technical knowledge, practice coding and preparing for further opportunities as a Software developer.
