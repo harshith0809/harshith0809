@@ -1,4 +1,4 @@
-# Course Title: Systems Programming
+# Course Title: CPS 544: Systems Programming
 
 ## Expectations for the Course
 
